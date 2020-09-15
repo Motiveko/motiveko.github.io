@@ -1,7 +1,7 @@
 ---
 title: "저의 첫 포스팅입니다"
 date: 2017-10-20 08:26:28 -0400
-categories: jekyll update
+categories: taskAgile
 ---
 앞으로 공부하는 내용을 이곳에 업로드 할 예정입니다. 기대해 주세요!
 
