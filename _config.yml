@@ -95,8 +95,8 @@ analytics:
 author:
   name             : "Motiveko"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
+  bio              : "주니어 자바 개발자"
+  location         : "당산동"
   email            :
   links:
     - label: "Email"
