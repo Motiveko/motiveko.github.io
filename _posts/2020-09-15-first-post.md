@@ -1,5 +1,5 @@
 ---
-title: "저의 첫 포스팅입니다"
+title: "taskAgile 관련 커밋을 해볼 예정입니다"
 date: 2017-10-20 08:26:28 -0400
 categories: taskAgile
 ---
